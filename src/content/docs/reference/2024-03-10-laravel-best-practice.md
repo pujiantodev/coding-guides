@@ -1,10 +1,6 @@
 ---
 title: Laravel Best Practice
 description: A reference page in my new Starlight docs site.
-sidebar:
-  badge:
-    text: Baru
-    varian: tip
 ---
 
 Ada repository github yang bagus untuk kita para developer laravel. Di sini menjelaskan best practice laravel yang sering digunakan di real dunia industri.

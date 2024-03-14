@@ -1,0 +1,86 @@
+---
+title: Deploy Laravel
+description: A guide in my new Starlight docs site.
+---
+
+Panduan deploy Laravel di server VPS Linux.
+
+## Update via Git
+
+### Back End
+
+- down app
+
+```
+sudo php artisan down
+```
+
+- git pull
+
+```
+sudo git pull
+```
+
+- run composer install
+
+```shel
+sudo composer install --optimize-autoloader --no-dev
+```
+
+- run artisan migrate when needed
+
+```
+sudo php artisan migrate
+```
+
+### Front End
+
+- yarn
+
+```
+sudo yarn
+```
+
+- yarn build
+
+```
+sudo yarn build
+```
+
+- remove node_modules (optional)
+
+```
+sudo rm -rf node_modules
+```
+
+### Optimize
+
+- run
+
+```
+sudo php artisan optimize
+```
+
+- up app
+
+```
+sudo php artisan up
+```
+
+ini optional sesuai kebutuhan.
+
+## Supervisor
+
+ini digunakan jika menggunakan fitur job dan queue
+
+- Status
+
+```
+sudo supervisorctl status
+```
+
+- Restart All
+
+```
+sudo supervisorctl restart all
+```
