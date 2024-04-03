@@ -35,6 +35,8 @@ sudo php artisan migrate
 
 ### Front End
 
+#### Yarn
+
 - yarn
 
 ```
@@ -45,6 +47,20 @@ sudo yarn
 
 ```
 sudo yarn build
+```
+
+#### PNPM
+
+- pnpm
+
+```
+sudo pnpm i
+```
+
+- pnpm build
+
+```
+sudo pnpm build
 ```
 
 - remove node_modules (optional)
