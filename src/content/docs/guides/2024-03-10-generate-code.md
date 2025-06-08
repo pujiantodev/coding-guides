@@ -1,10 +1,6 @@
 ---
 title: Generate Code
 description: Generate Code
-sidebar:
-  badge:
-    text: Baru
-    varian: tip
 ---
 
 ini adalah helper custom yang saya buat untuk mengenerate kode secara otomatis. tentu dengan helper ini kita bisa memanggilnya tanpa import file yang terlalu banyak.

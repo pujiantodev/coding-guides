@@ -1,6 +1,10 @@
 ---
-title: Perbedaan `composable` dan `utils` pada Project Vue.js
+title: Perbedaan composable dan utils pada Project Vue.js
 description: penjelasan perbedaan composable dan utils
+sidebar:
+  badge:
+    text: Baru
+    varian: tip
 ---
 
 Dalam proyek Vue.js modern (dengan Composition API), istilah `composable` dan `utils` sering digunakan untuk membagi logika kode. Meskipun sama-sama berupa fungsi, keduanya memiliki tujuan dan konteks penggunaan yang berbeda.
