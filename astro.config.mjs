@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "Laravelku",
+      title: "Pujianto's Code",
       social: [
         {
           icon: "github",
