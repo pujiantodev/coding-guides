@@ -1,6 +1,11 @@
 ---
-title: Rangkuman Lengkap: Auto Deploy Laravel via GitHub Actions (Tanpa Docker)
+title: Auto Deploy Laravel via GitHub Actions (Tanpa Docker)
 description: sedikit pengalaman saat mencoba membuat auto deploy laravel via github actions.
+lastUpdated: 2025-06-12
+sidebar:
+  label: Auto Deploy GitHub Actions
+  badge:
+    text: Baru
 ---
 
 Ini adalah rangkuman lengkap tentang cara melakukan auto deploy Laravel menggunakan GitHub Actions tanpa Docker. Saya membuat ini dengan bantuan chatGPT, termasuk rangkuman yang akan kamu di bawah ini.

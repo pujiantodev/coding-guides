@@ -1,6 +1,11 @@
 ---
-title: Ekspor CSV Jutaan Data di Laravel Tanpa Laravel Excel (Hemat RAM & Otomatis Upload ke S3)
+title: Ekspor CSV Jutaan Data di Laravel Tanpa Library Eksternal (Hemat RAM & Otomatis Upload ke S3)
 description: sedikit pengalaman saat optimasi eksport data besar.
+sidebar:
+  label: Ekspor CSV Jutaan Data di Laravel Tanpa Library Eksternal
+  badge:
+    text: Baru
+    variant: tip
 ---
 Pada artikel ini, saya akan membagikan bagaimana cara melakukan ekspor data dalam jumlah besar (jutaan row) dari database Laravel ke file `.csv` **tanpa menggunakan Laravel Excel**, serta **mengunggah hasilnya langsung ke S3/DigitalOcean Spaces**.
 

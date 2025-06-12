@@ -23,7 +23,7 @@ sudo git pull
 
 - run composer install
 
-```shel
+```
 sudo composer install --optimize-autoloader --no-dev
 ```
 
