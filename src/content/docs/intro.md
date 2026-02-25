@@ -5,4 +5,4 @@ description: Halaman Pengenalan.
 
 Ini adalah kumpulan catatan saya pribadi tentang laravel dan berbagai tips saat saya sedang menulis kode. akan ada banyak tutorial dan tips yang akan coba saya dokumentasikan di sini.
 
-[kepsesjen nomor 40](/src/doc-siplah/kepsesjen-nomor-40-p-2023-cap.pdf)
+[kepsesjen nomor 40](/doc-siplah/kepsesjen-nomor-40-p-2023-cap.pdf)
